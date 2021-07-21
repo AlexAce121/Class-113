@@ -1,0 +1,10 @@
+button{
+    height: 40px;
+    width: 150px;
+    margin-left: 20px;
+}
+
+canvas{
+    border: 1px solid black;
+  z-index: 1999999999;
+}
